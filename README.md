@@ -37,7 +37,7 @@
   <td align="center">Ferramentas</td>
    <td>
     <div align="center"> 
-     <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
+     <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
   </tr>
 </table>
 </div>
@@ -54,7 +54,8 @@
 
 </div>
   <div>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSalomon&layout=compact&langs_count=7&theme=dracula"/>
+<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=CaioSalo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/CaioSalo"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSalo&layout=compact&langs_count=7&theme=dracula"/>
  </div>
  
  
