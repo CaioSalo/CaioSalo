@@ -29,7 +29,7 @@
     Tecnologias</td>  
     <td >
     <div align="center"> 
-  <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>  
+    <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>  
   </tr
   
   <tr>
@@ -54,8 +54,7 @@
 
 </div>
   <div>
-<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=CaioSalomon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/CaioSalomon"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSalomon&layout=compact&langs_count=7&theme=dracula"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSalomon&layout=compact&langs_count=7&theme=dracula"/>
  </div>
  
  
