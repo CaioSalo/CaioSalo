@@ -3,21 +3,20 @@
 </div>
 
 
+
 <table>
 <tr valign="top"  >
  <div align="center"> 
  <h2> Me chamo <strong>Caio Salomão</strong> </h2>
-<td height=100%>
 <div align="center"> 
-
-
-
- 📚 Graduando em Ciencia e Tecnologia na Universidade Federal da Bahia |UFBA|
+ 📚 Graduando em Ciencia e Tecnologia na Universidade Federal da Bahia |UFBA| </br>
+  Gerente de Marketing da TITAN - Empresa Júnior de Engenharia da Computação
 </div>
+<td height=100%>
 
 <div align="center"> 
 
-<h2>Ferramentas & Tecnologias</h2>
+<h2>Conhecimentos</h2>
 </div>
 
 <hr>
@@ -26,18 +25,28 @@
   <tr>
     <td>
     <div align="center"> 
-    Tecnologias</td>  
+    Linguagens</td>  
     <td >
     <div align="center"> 
-    <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>  
+    <img aling="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img aling="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>  
   </tr
   
   <tr>
   <div align="center"> 
-  <td align="center">Ferramentas</td>
+  <td align="center">Front-End</td>
    <td>
     <div align="center"> 
-     <img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
+    <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img align="center" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></td>
+  </tr>
+ 
+  <tr>
+  <div align="center"> 
+  <td align="center">Versionamento</td>
+   <td>
+    <div align="center"> 
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></td>
   </tr>
 </table>
 </div>
