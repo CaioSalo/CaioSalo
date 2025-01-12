@@ -1,17 +1,21 @@
  <div align="center"> 
-<h1> Olá, boas vindas ao meu perfil GitHub 👋</h1>
+<h3> Olá,  Me chamo <strong>Caio Salomão</strong>👋</h3> 
 </div>
+
+<div>Desenvolvedor Front-End focado em experiências digitais que combinam design funcional e código limpo.
+Com uma base sólida em desenvolvimento web e um olhar atento ao design, meu foco é construir interfaces intuitivas e modernas que encantem os usuários.
 
 
 
 <table>
 <tr valign="top"  >
  <div align="center"> 
- <h2> Me chamo <strong>Caio Salomão</strong> </h2>
-<div align="center"> 
- 📚 Graduando em Ciencia e Tecnologia na Universidade Federal da Bahia |UFBA| </br>
-  Gerente de Marketing da TITAN - Empresa Júnior de Engenharia da Computação
+<br>
+<div align="left"> 
+ 🎓 Bacharelando em Ciência e Tecnologia |UFBA|<br>
+  👨‍💻 Gerente de EndoMarketing na TITAN
 </div>
+<br>
 <td height=100%>
 
 <div align="center"> 
@@ -28,7 +32,8 @@
     Linguagens</td>  
     <td >
     <div align="center"> 
-    <img aling="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img aling="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></td>  
+    <img aling="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img aling="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+ </td>  
   </tr
   
   <tr>
