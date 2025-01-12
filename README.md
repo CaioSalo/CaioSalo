@@ -1,20 +1,22 @@
- <div align="center"> 
+<div align="left"> 
 <h3> Olá,  Me chamo <strong>Caio Salomão</strong>👋</h3> 
-</div>
-
-<div>Desenvolvedor Front-End focado em experiências digitais que combinam design funcional e código limpo.
-Com uma base sólida em desenvolvimento web e um olhar atento ao design, meu foco é construir interfaces intuitivas e modernas que encantem os usuários.
-
-
-
+<p><strong>Desenvolvedor Front-End focado em experiências digitais que combinam design funcional e código limpo.
+Com uma base sólida em desenvolvimento web e um olhar atento ao design, meu foco é construir interfaces intuitivas e modernas que encantem os usuários.<strong></p></div>
 <table>
 <tr valign="top"  >
  <div align="center"> 
 <br>
+
+---
+
+
 <div align="left"> 
  🎓 Bacharelando em Ciência e Tecnologia |UFBA|<br>
   👨‍💻 Gerente de EndoMarketing na TITAN
 </div>
+
+---
+
 <br>
 <td height=100%>
 
